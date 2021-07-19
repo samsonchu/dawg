@@ -1,4 +1,4 @@
-package dawg.textblock;
+package com.dawg.java14.textblocks;
 
 public class TextBlockTester {
     public static void main(String[] args) {
@@ -9,7 +9,8 @@ public class TextBlockTester {
 
         System.out.println("""
                 {  
-                  "name": "painter", "qty": 18,
+                  "name": "painter",
+                  "qty": 18,
                   "size": {"width": 1, "height": 8, "unit": "in"},
                   "tags": ["writing", "pen"],
                   "rating": 7

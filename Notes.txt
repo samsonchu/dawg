@@ -1,0 +1,18 @@
+JDK 11
+String class additions
+JDK 12
+switch expressions
+teeing collector
+JDK 13
+Text Blocks
+Reimplemented Socket API
+JDK 14
+Records
+Text Blocks
+Enhanced Pattern Matching
+Reimplemented DataSocket API
+JDK 15
+Sealed Classes
+Enhanced Pattern Matching
+Hidden Classes
+Project Loom: Fibers and Continuations

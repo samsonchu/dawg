@@ -1,4 +1,4 @@
-package dawg.switchstatement;
+package com.dawg.java12.switchmethod;
 
 public class NewSwitchStatement {
     enum Person {
