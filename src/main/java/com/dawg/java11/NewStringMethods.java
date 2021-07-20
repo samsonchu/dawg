@@ -39,6 +39,10 @@ public class NewStringMethods {
     }
 
     private static void testStrip() {
+        /*      strip
+                stripLeading
+                stripTrailing
+        */
         String str = "  A B C  ".stripTrailing();
         switch(str) {
             case "A B C":
@@ -61,6 +65,6 @@ public class NewStringMethods {
 
         Stream<String> lines = str.lines();
 
-        lines.forEach(entry -> System.out.println(entry + "a"));
+        lines.forEach(entry -> System.out.println(entry));
     }
 }
